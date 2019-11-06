@@ -1,0 +1,5 @@
+1. Adott az "adatok.csv" file, 100 db egész számot tartalmaz
+2. Olvassa be az egész számokat és tárolja egy tömbben
+3. Minimum, maximum kiíratása
+4. A számok összegének a kiíratása
+5. Állítsa sorrendbe a tömb elemeit és írja ki a képernyõre (egy sorban 10 elem legyen csak, ha nem tudja akkor vesszõvel elválasztva egymás mellé)
